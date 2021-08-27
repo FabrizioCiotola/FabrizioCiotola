@@ -1,0 +1,1 @@
+- 👋 Hi, I am @FabrizioCiotola. I am a full stack developer for the software-inside company.
